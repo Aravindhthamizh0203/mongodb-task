@@ -1,0 +1,649 @@
+[{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565178217"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd63a9e94bac894c0c602"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565231417"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd66f9e94bac894c0c603"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565233666"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6719e94bac894c0c604"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565234821"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6729e94bac894c0c605"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565235919"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6739e94bac894c0c606"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565236933"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6749e94bac894c0c607"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565237763"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6759e94bac894c0c608"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565238950"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6769e94bac894c0c609"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565239876"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6779e94bac894c0c60a"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565240683"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6789e94bac894c0c60b"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565241524"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd6799e94bac894c0c60c"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565242221"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd67a9e94bac894c0c60d"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565242803"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd67a9e94bac894c0c60e"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565243466"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd67b9e94bac894c0c60f"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565244058"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd67c9e94bac894c0c610"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565244601"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd67c9e94bac894c0c611"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565245051"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd67d9e94bac894c0c612"
+  }
+},{
+  "0": {
+    "name": "aravindh"
+  },
+  "1": {
+    "codekata": [
+      {
+        "done": 171
+      },
+      {
+        "undone": 273
+      }
+    ]
+  },
+  "2": {
+    "date": {
+      "$date": {
+        "$numberLong": "1674565245499"
+      }
+    }
+  },
+  "3": {
+    "attendance": true
+  },
+  "4": {
+    "topic": "javascript"
+  },
+  "5": {
+    "task": false
+  },
+  "6": {
+    "mentor": "arun"
+  },
+  "_id": {
+    "$oid": "63cfd67d9e94bac894c0c613"
+  }
+}]
